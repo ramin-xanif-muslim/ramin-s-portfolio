@@ -253,7 +253,7 @@ export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
-        link: "https://github.com/raminjsm",
+        link: "https://github.com/ramin-xanif-muslim/ramin-karimov",
     },
     // {
     //     id: 2,
