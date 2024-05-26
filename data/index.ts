@@ -130,34 +130,34 @@ export const projects = [
     //     ],
     //     link: "https://rk-figma.vercel.app",
     // },
-    // {
-    //     id: 6,
-    //     title: "Shoes",
-    //     des: "The 'Shoes' website is an interactive web resource developed using React, designed to sell shoes. It offers a wide range of shoes of different styles and brands, an easy-to-use interface for browsing products, and an easy purchasing process.",
-    //     img: "/shoes.jpg",
-    //     iconLists: [
-    //         "/next.svg",
-    //         "/tail.svg",
-    //         "/ts.svg",
-    //         "/three.svg",
-    //         "/gsap.svg",
-    //     ],
-    //     link: "https://shoes-green.vercel.app",
-    // },
-    // {
-    //     id: 7,
-    //     title: "AI Brainwave",
-    //     des: "Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.",
-    //     img: "/ai-brainwave.jpg",
-    //     iconLists: [
-    //         "/next.svg",
-    //         "/tail.svg",
-    //         "/ts.svg",
-    //         "/three.svg",
-    //         "/gsap.svg",
-    //     ],
-    //     link: "https://ai-brainwave-five.vercel.app",
-    // },
+    {
+        id: 6,
+        title: "Shoes",
+        des: "The 'Shoes' website is an interactive web resource developed using React, designed to sell shoes. It offers a wide range of shoes of different styles and brands, an easy-to-use interface for browsing products, and an easy purchasing process.",
+        img: "/shoes.jpg",
+        iconLists: [
+            "/next.svg",
+            "/tail.svg",
+            "/ts.svg",
+            "/three.svg",
+            // "/gsap.svg",
+        ],
+        link: "https://shoes-green.vercel.app",
+    },
+    {
+        id: 7,
+        title: "AI Brainwave",
+        des: "Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.",
+        img: "/ai-brainwave.jpg",
+        iconLists: [
+            "/next.svg",
+            "/tail.svg",
+            "/ts.svg",
+            "/three.svg",
+            "/gsap.svg",
+        ],
+        link: "https://ai-brainwave-five.vercel.app",
+    },
 ];
 
 export const testimonials = [
