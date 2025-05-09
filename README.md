@@ -1,6 +1,6 @@
 # Ramin Karimov – Frontend Developer
 
-👋 Hi, I'm Ramin Karimov, a frontend developer with 3+ years of experience. I specialize in building modern, fast, and scalable web interfaces using **React**, **Vue**, **TypeScript**, and **Next.js**.
+👋 Hi, I'm Ramin Karimov, a frontend developer with 4+ years of experience. I specialize in building modern, fast, and scalable web interfaces using **React**, **Vue**, **TypeScript**, and **Next.js**.
 
 ## 📍 About Me
 - 📌 Location: Baku, Azerbaijan  
